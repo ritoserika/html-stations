@@ -1,5 +1,3 @@
-// var result = getData();
-var result ='abcdefghijklmn'
+var result = getData();
 var elem = document.getElementById("result");
-
 elem.innerHTML = result;
